@@ -90,3 +90,8 @@ ENV/
 
 # Pycharm
 .idea
+
+# sqlite database
+*.sqlite3
+
+result.xml
